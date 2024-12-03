@@ -1,53 +1,159 @@
-#hh1{
+* {
+    margin: 8px;
+}
+#hhh {
     text-align: center;
     font-size: 72px;
 
 }
-#hh2{
-    width: 568px;
+
+#divv {
+    max-width: 568px;
+}
+
+#hhhh {
     text-align: center;
     font-size: 20px;
-    width: 515px;
-    height: 30px;
-    margin-left: 20px;
 }
-#pp{
-    width: 420px;
-    height: 144px;
+
+#pp {
+    color: #414651;
+    text-align: center;
+    font-family: Lato;
     font-size: 20px;
-    width: 515px;
-    height: 96px;
-    margin-left: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
 }
-#ordl{
-    width: 568px;
-    height: 144px;
+
+#ordl {
     font-size: 20px;
     color: #155eef;
 }
-#s1{
+
+#potka {
+    color: #414651;
+    text-align: center;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#ss {
     font-size: 24px;
     color: #cea201;
     border: 2px solid #cea201;
-    padding: 6px 16px;
-    justify-content: center;
+    padding: 12px 32px;
     text-align: center;
-    margin-left: 30px;
     width: 113px;
     height: 32px;
 }
-#p2{
-    text-align: center;
-    font-size: 20px;
-    width: 722px;
-    height: 24px;
-    margin-left: 55px;
-}
-#hhh2{
-    text-align: center;
-    font-size: 20px;
-    width: 722px;
-    height: 24px;
-    margin-left: 55px;
+#spanerti{
+    margin-top: 32px;
 }
 
+#ppp {
+    text-align: center;
+    font-size: 20px;
+}
+
+#hhhhh {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#wrapper {
+    max-width: 568px;
+    margin-bottom: 60px;
+}
+#dididivi{
+    max-width: 801px;
+}
+
+
+#imageDiv {
+    overflow: hidden;
+    height: 450px;
+}
+#pataradivi{
+    text-align: center;
+}
+
+#sia { 
+    text-align: left;
+    margin: 0 auto;
+}
+
+#listDiv {
+    width: fit-content;
+    margin: 0 auto;
+}
+#psami{
+    color: #00C76E;
+text-align: center;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; 
+}
+#ordlori{
+    color: #FF5DA3;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+#periaspontiani{
+    width: 722px;
+}
+#periasponti{
+    width: 200px;
+    margin-top: 24px;
+}
+#potxi{
+    color: #414651;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: 24px; 
+}
+#wertilebiani{
+    background-color: #FFDEF0;
+    border: 6px solid #C11574;;
+}
+
+#list {
+    list-style-type: none;
+}
+#meduzakata{
+    width: 298px;
+}
+#divsami{
+    color: #00D4BC;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 133.333% */
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-decoration-skip-ink: auto;
+text-decoration-thickness: auto;
+text-underline-offset: auto;
+text-align: right;
+}
+#spanerti{
+    color: #C27512;
+}
+#spanori{
+    color: #C27512;
+}
+#spansami{
+    color: #C27512;
+}
